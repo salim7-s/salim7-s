@@ -1,31 +1,104 @@
-<h1 align="center">Hi 👋, I'm Salim khan</h1>
-<h3 align="center">## Learning, building, and shipping full-stack projects with real engineering discipline.</h3>
+<!-- ============================
+     Hi + Animated Headline
+     ============================ -->
+<h1 align="center">Hi 👋, I'm Salim Khan</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salim7-s" alt="salim7-s" /></a> </p>
-
-- 🔭 I’m currently working on **Water Conservation Website — *Full-stack Node.js + MySQL project***
-
-- 🌱 I’m currently learning **DSA, Node.js, Express, MySQL, Git/GitHub, and frontend best practices.**
-
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on** Full-stack apps, backend systems, and open-source beginner-friendly projects.**
-
-- 🤝 I’m looking for help with **Backend architecture, MySQL optimizat, writing cleaner scalable API and cloud computing.Is,**
-
-- 💬 Ask me about **JavaScript, MySQL, REST APIs, and full-stack project structure.**
-
-- 📫 How to reach me **boymigma@gmail.com**
-
-- ⚡ Fun fact **I debug faster when the bug is my fault.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4DF7FF&center=true&vCenter=true&width=760&lines=Learning+%2F+Building+%2F+Shipping;Full-stack+projects+with+real+engineering+discipline" alt="typing" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=salim7-s&theme=onedark" alt="trophy" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salim7-s&show_icons=true&locale=en&layout=compact" alt="salim7-s" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salim7-s&show_icons=true&locale=en" alt="salim7-s" /></p>
+## 🔭 About / Current Work
+- **Working on:** Water Conservation Website — *Full-stack (Node.js + Express + MySQL) with a responsive frontend.*  
+- **Repo:** Private (in active development)  
+- **Focus:** Clean APIs, solid DB schema, and a production-ready folder structure.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salim7-s&" alt="salim7-s" /></p>
+---
+
+## 🌱 I’m currently learning
+**DSA, Node.js, Express, MySQL, Git/GitHub, frontend best practices.**
+
+---
+
+## 🤝 Collaboration & Help
+- **Looking to collaborate on:** Full-stack apps, backend systems, and beginner-friendly OSS.  
+- **Need help with:** Backend architecture, query optimization, scalable API patterns, and cloud deployment.
+
+---
+
+## 💬 Ask me about
+JavaScript, MySQL, REST APIs, project architecture, and debugging strategies.
+
+---
+
+## 📫 Contact
+- Email: `boymigma [at] gmail [dot] com`  *(replace with your actual email if you want it clickable)*  
+- GitHub: [github.com/salim7-s](https://github.com/salim7-s)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img alt="C"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"      width="36" height="36"/>
+  <img alt="C++"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36"/>
+  <img alt="CSS3"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"       width="36" height="36"/>
+  <img alt="JS"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"     width="36" height="36"/>
+  <img alt="Node"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"    width="36" height="36"/>
+  <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36"/>
+  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"       width="36" height="36"/>
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"     width="36" height="36"/>
+  <img alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36"/>
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"             width="36" height="36"/>
+  <img alt="Git"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                   width="36" height="36"/>
+</p>
+
+---
+
+## 📈 GitHub Stats & Streak
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salim7-s&show_icons=true&locale=en" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salim7-s&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salim7-s&" alt="Streak" />
+</p>
+
+---
+
+## ✨ Projects & Links
+- **Water Conservation Website** — backend & APIs (private)  
+- **Portfolio** — add your portfolio link here when ready  
+- **Blog / Articles** — add link if you write posts
+
+---
+
+## 🎯 Goals (short-term)
+- Ship a production-ready backend with proper migrations and tests.  
+- Optimize DB queries and add caching for heavy endpoints.  
+- Deploy backend to a cloud provider and automate CI/CD.
+
+---
+
+## 🧩 Fun fact
+I find bugs faster when I assume *I* broke something first.
+
+---
+
+### 🔧 Tips to customize quickly
+1. Replace all `salim7-s` instances with your GitHub username if you change it.  
+2. Replace contact placeholders with real links (portfolio, resume).  
+3. If you want a visual tweak (dark/light theme, different typing text, or extra badges), tell me which style and I’ll patch it.
+
+---
+
