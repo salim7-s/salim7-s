@@ -1,12 +1,12 @@
 <!-- =========================
-     Salim Khan — Compact, Premium README (Glowing SVG Banner)
+     Salim Khan — Compact, Premium README (Fixed)
      Paste this into your profile README.md
      Replace placeholder links if needed
      ========================= -->
 
 <div align="center">
 
-<!-- Glowing animated SVG banner -->
+<!-- Glowing animated SVG banner (renders inline; not inside a code block) -->
 <svg width="100%" height="160" viewBox="0 0 1200 160" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" style="border-radius:12px">
   <defs>
     <linearGradient id="g" x1="0" x2="1">
@@ -23,7 +23,6 @@
       </feMerge>
     </filter>
 
-    <!-- animated mask for wave -->
     <linearGradient id="waveGrad" x1="0" x2="1">
       <stop offset="0" stop-color="#0ea5e9"/>
       <stop offset="1" stop-color="#7c3aed"/>
@@ -72,14 +71,12 @@
 
 </svg>
 
-<!-- typing headline -->
+<!-- typing headline (image) -->
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=Learning+%2F+Building+%2F+Shipping;Engineering+clean+backend+systems;Ship+small+%2B+iterate+fast" alt="typing" />
 </p>
 
 </div>
-
----
 
 <!-- subtle separator -->
 <p align="center">
